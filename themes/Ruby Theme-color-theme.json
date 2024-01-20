@@ -94,6 +94,14 @@
       "foreground": "#61AFEF",
       "fontStyle": ""
     },
+    "property": {
+      "foreground": "#E06C75",
+      "fontStyle": ""
+    },
+    "property.declaration": {
+      "foreground": "#E06C75",
+      "fontStyle": ""
+    },
     "variable.default_library": {
       "foreground": "#E06C75",
       "fontStyle": "bold"
@@ -122,14 +130,6 @@
     "type": {
       "foreground": "#dd5555",
       "fontStyle": "bold"
-    },
-    "property": {
-      "foreground": "#eee0e0",
-      "fontStyle": ""
-    },
-    "property.declaration": {
-      "foreground": "#eee0e0",
-      "fontStyle": ""
     },
     "enumMember": {
       "foreground": "#4b82e9",
