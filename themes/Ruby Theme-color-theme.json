@@ -142,6 +142,27 @@
   },
   "tokenColors": [
     {
+      "name": "Generic ERB and Haml token color",
+      "scope": [
+        "text.html.erb",
+        "source.ruby.embedded.haml",
+      ],
+      "settings": {
+        "foreground": "#E06C75"
+      }
+    },
+    {
+      "name": "ERB punctuation",
+      "scope": [
+        "punctuation.separator.method.ruby",
+        "punctuation.separator.object.ruby",
+        "punctuation.separator.namespace.ruby",
+      ],
+      "settings": {
+        "foreground": "#9DA5B4"
+      }
+    },
+    {
       "name": "Comment",
       "scope": [
         "comment"
