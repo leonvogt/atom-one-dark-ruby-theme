@@ -78,39 +78,45 @@
 	},
   "semanticTokenColors": {
     "method.declaration": {
-      "foreground": "#d464eb"
+      "foreground": "#61AFEF"
     },
     "function.declaration": {
-      "foreground": "#d464eb"
+      "foreground": "#61AFEF"
     },
     "function.declaration.async": {
-      "foreground": "#d464eb"
+      "foreground": "#61AFEF"
     },
     "method": {
-      "foreground": "#d1ccf1",
+      "foreground": "#61AFEF",
       "fontStyle": ""
     },
     "function": {
-      "foreground": "#d1ccf1",
+      "foreground": "#61AFEF",
       "fontStyle": ""
     },
     "variable.default_library": {
-      "foreground": "#ed2a88",
+      "foreground": "#E06C75",
       "fontStyle": "bold"
     },
-    "namespace": {
-      "foreground": "#4b82e9",
-      "fontStyle": ""
-    },
+    // At the moment, too many things are being highlighted as "namespace"
+    // Normal class calls are being highlighted as "namespace", like `Device.model_name`
+    // "namespace": {
+    //   "foreground": "#D19A66",
+    //   "fontStyle": ""
+    // },
     "class": {
-      "foreground": "#4b82e9",
+      "foreground": "#E5C07B",
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#4b82e9"
+      "foreground": "#E06C75"
     },
     "variable": {
-      "foreground": "#18b5e4",
+      "foreground": "#E06C75",
+      "fontStyle": ""
+    },
+    "parameter": {
+      "foreground": "#E06C75",
       "fontStyle": ""
     },
     "type": {
