@@ -75,6 +75,64 @@
     "peekViewResult.selectionBackground": "#2C313A",
     "peekViewTitle.background": "#1B1D23",
     "peekViewEditor.background": "#1B1D23"
+	},
+  "semanticTokenColors": {
+    "method.declaration": {
+      "foreground": "#d464eb"
+    },
+    "function.declaration": {
+      "foreground": "#d464eb"
+    },
+    "function.declaration.async": {
+      "foreground": "#d464eb"
+    },
+    "method": {
+      "foreground": "#d1ccf1",
+      "fontStyle": ""
+    },
+    "function": {
+      "foreground": "#d1ccf1",
+      "fontStyle": ""
+    },
+    "variable.default_library": {
+      "foreground": "#ed2a88",
+      "fontStyle": "bold"
+    },
+    "namespace": {
+      "foreground": "#4b82e9",
+      "fontStyle": ""
+    },
+    "class": {
+      "foreground": "#4b82e9",
+      "fontStyle": ""
+    },
+    "interface": {
+      "foreground": "#4b82e9"
+    },
+    "variable": {
+      "foreground": "#18b5e4",
+      "fontStyle": ""
+    },
+    "type": {
+      "foreground": "#dd5555",
+      "fontStyle": "bold"
+    },
+    "property": {
+      "foreground": "#eee0e0",
+      "fontStyle": ""
+    },
+    "property.declaration": {
+      "foreground": "#eee0e0",
+      "fontStyle": ""
+    },
+    "enumMember": {
+      "foreground": "#4b82e9",
+      "fontStyle": ""
+    },
+    "enum": {
+      "foreground": "#4b82e9",
+      "fontStyle": ""
+    }
   },
   "tokenColors": [
     {
