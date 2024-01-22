@@ -140,6 +140,24 @@
   },
   "tokenColors": [
     {
+      "name": "Generic Ruby code",
+      "scope": [
+        "source.ruby",
+      ],
+      "settings": {
+        "foreground": "#E06C75"
+      }
+    },
+    {
+      "name": "Generic punctuation",
+      "scope": [
+        "punctuation.separator.key-value",
+      ],
+      "settings": {
+        "foreground": "#9DA5B4"
+      }
+    },
+    {
       "name": "Generic ERB and Haml token color",
       "scope": [
         "text.html.erb",
