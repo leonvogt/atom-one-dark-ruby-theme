@@ -1,20 +1,38 @@
 {
-  "name": "ruby-theme",
-  "displayName": "ruby-theme",
-  "description": "",
-  "version": "0.0.1",
+  "name": "atom-one-dark-ruby-theme",
+  "displayName": "Atom One Dark Ruby Theme",
+  "description": "Atom One Dark with some Ruby specific semantic highlighting provided by the Ruby LSP from Shopify.",
+  "homepage": "https://github.com/leonvogt/atom-one-dark-ruby-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonvogt/atom-one-dark-ruby-theme"
+  },
+  "publisher": "leonvogt",
+  "version": "0.1.2",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "galleryBanner": {
+    "color": "#282C34",
+    "theme": "dark"
+  },
+  "keywords": [
+    "atom",
+    "theme",
+    "dark",
+    "one dark",
+    "ruby"
+  ],
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Ruby Theme",
+        "label": "Atom One Dark Ruby Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ruby Theme-color-theme.json"
+        "path": "./themes/atom-one-dark-ruby-theme.json"
       }
     ]
   }

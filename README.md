@@ -1,16 +1,7 @@
-# ruby-theme README
+# Atom One Dark Ruby Theme
 
-## Working with Markdown
+This VS Code theme is a variant of the [Atom One Dark Theme](https://github.com/akamud/vscode-theme-onedark)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Basically Atom One Dark with some Ruby-specific [semantic highlighting](https://shopify.github.io/ruby-lsp/semantic-highlighting.html) provided by the awesome [Ruby LSP](https://shopify.github.io/ruby-lsp/) from Shopify.
